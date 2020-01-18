@@ -1,4 +1,4 @@
-# VelodyneLidarViewer
+# Velodyne Lidar Viewer
 Velodyne Lidar Viewer For Unity.
 
 You can use this github repository to [report issues](https://github.com/unitycoder/VelodyneLidarViewer/issues) for the viewer and [view documentation](https://github.com/unitycoder/VelodyneLidarViewer/wiki)
@@ -10,3 +10,7 @@ You can use this github repository to [report issues](https://github.com/unityco
 
 ## Video
 ..
+
+
+### Disclaimer
+VELODYNE is a trademark of Velodyne LiDAR, Inc. (not affiliated with this plugin)
