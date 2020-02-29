@@ -12,7 +12,7 @@ You can use this github repository to [report issues](https://github.com/unityco
 ![unity-velodyne-viewer-opt](https://user-images.githubusercontent.com/5438317/73758376-2ffad400-4773-11ea-8a57-98cef0562c0c.gif)
 
 ## Video
-..
+https://www.youtube.com/watch?v=nuz5y1o3hn8
 
 ### Disclaimer
 VELODYNE is a trademark of Velodyne LiDAR, Inc. (not affiliated with this plugin)
