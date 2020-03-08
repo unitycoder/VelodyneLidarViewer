@@ -8,6 +8,7 @@ You can use this github repository to [report issues](https://github.com/unityco
 - Unity Forum Thread : https://forum.unity.com/threads/velodyne-lidar-viewer.833557/
 - Website : (soon)
 - Release Notes : https://github.com/unitycoder/VelodyneLidarViewer/blob/master/ReleaseNotes.md
+- Support : (see readme inside the Documentation folder)
 
 ## Screenshot
 ![unity-velodyne-viewer-opt](https://user-images.githubusercontent.com/5438317/73758376-2ffad400-4773-11ea-8a57-98cef0562c0c.gif)
