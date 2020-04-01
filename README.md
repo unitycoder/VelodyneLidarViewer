@@ -4,7 +4,7 @@ Velodyne Lidar Viewer For Unity.
 You can use this github repository to [report issues](https://github.com/unitycoder/VelodyneLidarViewer/issues) for the viewer and [view documentation](https://github.com/unitycoder/VelodyneLidarViewer/wiki)
 
 ## Links
-- Asset Store : (soon)
+- Asset Store : https://assetstore.unity.com/packages/tools/integration/velodyne-lidar-viewer-158846?aid=1101lGti
 - Unity Forum Thread : https://forum.unity.com/threads/velodyne-lidar-viewer.833557/
 - Website : (soon)
 - Release Notes : https://github.com/unitycoder/VelodyneLidarViewer/blob/master/ReleaseNotes.md
