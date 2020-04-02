@@ -10,7 +10,7 @@ First version!
 - Playback controls: Pause,Play,Rewind,Forward (not available for live stream, except pause)
 - DX11, CommandBuffer and Mesh - rendering modes
 - Special shaders with customizable options (Gradients, Rotation, Filter, Point size, View angle filter, Distance filter..)
-- Using Unity 2017.4.24f1 (but works on later versions also)
+- Using Unity 2018.4.8f1 (but works on later versions also)
 - Supports VR (tested on Vive, Rift S, Cosmos, Quest*) *Quest only supports PCAP playback with mesh rendering.
 
 ## Limitations
