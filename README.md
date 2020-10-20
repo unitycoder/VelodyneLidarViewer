@@ -1,5 +1,6 @@
 # Velodyne Lidar Viewer
 Velodyne Lidar Viewer For Unity.
+For viewing live data from the connected device, or playing pcap recordings.
 
 You can use this github repository to [report issues](https://github.com/unitycoder/VelodyneLidarViewer/issues) for the viewer and [view documentation](https://github.com/unitycoder/VelodyneLidarViewer/wiki)
 
