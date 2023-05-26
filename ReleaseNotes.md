@@ -1,4 +1,18 @@
-## Velodyne Lidar Viewer For Unity v1.1 (24.03.2022)
+## v1.2 (18.05.2023)
+
+### Whats New:
+- Add support for HDL-32e device model (model id 33) *No "DUAL return" support
+- Added support HDRP VFX Graph *check "Velodyne Viewer HDRP.pdf" inside Documentation folder
+- Added support HDRP Custom Pass Rendering *check "Velodyne Viewer HDRP.pdf" inside Documentation folder
+- Added support for Mac Metal (experimental shaders added)
+- Fixed: Mesh intensity shader was missing _Granularity property
+
+### Known issues
+- View/report issues on github : https://github.com/unitycoder/VelodyneLidarViewer/issues
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v1.1.1 (24.03.2022)
 
 ### Whats New:
 - Unity version upgrade to 2019.4.19f1
@@ -6,6 +20,13 @@
 - Added humanreadable count debug logs (for point count and file sizes: 1000000 > 1M)
 - Added public methods info: https://github.com/unitycoder/VelodyneLidarViewer/wiki/API
 - Added HDRP setup instructions: https://github.com/unitycoder/VelodyneLidarViewer/issues/5
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v1.1 (24.06.2020)
+
+## Added:
+- DX11 Uber shader: RainbowMode now has Intensity mode (draws point original intensity color only)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
